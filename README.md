@@ -5,6 +5,7 @@ The project page for "SCITAB: A Challenging Benchmark for Compositional Reasonin
 
 This repository contains the code and data for the paper [SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables](). 
 
+![alt text](https://github.com/czyssrs/FinQA/blob/main/eg-intro.png?raw=true)
 ## Dataset
 
 The dataset is stored as json files in folder "dataset", each entry has the following format:
