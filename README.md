@@ -3,7 +3,7 @@ The project page for "SCITAB: A Challenging Benchmark for Compositional Reasonin
 
 ## Introduction
 
-This repository contains the code and data for the paper [SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables](). 
+This repository contains the code and data for the paper [SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables](http://arxiv.org/abs/2305.13186). 
 
 ![alt text](https://github.com/XinyuanLu00/SciTab/blob/main/scitab-eg.png?raw=true)
 ## Dataset
@@ -27,5 +27,13 @@ The dataset is stored as json files in folder "dataset", each entry has the foll
 If you find this project useful, please cite it using the following format: 
 
 ```bash
+@misc{lu2023scitab,
+      title={SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables}, 
+      author={Xinyuan Lu and Liangming Pan and Qian Liu and Preslav Nakov and Min-Yen Kan},
+      year={2023},
+      eprint={2305.13186},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 
 ```
