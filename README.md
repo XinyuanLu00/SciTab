@@ -1,6 +1,14 @@
 # SciTab
 The project page for "SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables
 
+## What's New
+
+[2023.10.12] More training materials, including the recruitment advertisement, registration form, and the agreement sheet have been uploaded.
+
+[2023.10.08] The SCITAB work has been accepted at EMNLP 2023 main conference! Stay tuned for the camera-ready version!
+
+[2023.05.20] The project page has been built!
+
 ## Introduction
 
 This repository contains the code and data for the paper [SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables](http://arxiv.org/abs/2305.13186). 
