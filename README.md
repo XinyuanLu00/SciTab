@@ -3,6 +3,9 @@ The project page for "SCITAB: A Challenging Benchmark for Compositional Reasonin
 
 ## What's New
 
+
+[2023.10.22] The camera ready version is ready! Please check the `doc` folder.
+
 [2023.10.12] More training materials, including the recruitment advertisement, registration form, and the agreement sheet have been uploaded.
 
 [2023.10.08] The SCITAB work has been accepted at EMNLP 2023 main conference! Stay tuned for the camera-ready version!
