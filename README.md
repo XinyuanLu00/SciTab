@@ -3,6 +3,7 @@ The project page for "SCITAB: A Challenging Benchmark for Compositional Reasonin
 
 ## What's New
 
+[2023.11.12] The EMNLP poster and slides are ready! Please check the `doc` folder.
 
 [2023.10.22] The camera ready version is ready! Please check the `doc` folder.
 
