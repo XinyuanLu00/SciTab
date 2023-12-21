@@ -39,13 +39,20 @@ The dataset is stored as json files in folder "dataset", each entry has the foll
 If you find this project useful, please cite it using the following format: 
 
 ```bash
-@misc{lu2023scitab,
-      title={SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables}, 
-      author={Xinyuan Lu and Liangming Pan and Qian Liu and Preslav Nakov and Min-Yen Kan},
-      year={2023},
-      eprint={2305.13186},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{Luscitab23,
+  author       = {Xinyuan Lu and
+                  Liangming Pan and
+                  Qian Liu and
+                  Preslav Nakov and
+                  Min{-}Yen Kan},
+  title        = {{SCITAB:} {A} Challenging Benchmark for Compositional Reasoning and
+                  Claim Verification on Scientific Tables},
+  booktitle    = {Proceedings of the 2023 Conference on Empirical Methods in Natural
+                  Language Processing, {EMNLP} 2023, Singapore, December 6-10, 2023},
+  pages        = {7787--7813},
+  publisher    = {Association for Computational Linguistics},
+  year         = {2023},
+  url          = {https://aclanthology.org/2023.emnlp-main.483}
 }
 
 ```
